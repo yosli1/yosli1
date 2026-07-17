@@ -1,32 +1,43 @@
-<!-- HERO -->
+<!-- TOP WAVE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yosli1/yosli1/main/7b837d4c0afbba735dd6373a7772645f.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header"/>
 </p>
 
 <h1 align="center">Yoslibeth Tolosa</h1>
 
 <p align="center">
   ADSO Student • Colombia <br>
-  Full-Stack Developer in progress
+  <b>Full-Stack Developer in progress</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/web-dev-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/building-consistency-ff69b4?style=for-the-badge"/>
 </p>
 
 ---
 
-## About
+## About Me
 
 <div align="center">
 
 <table>
 <tr>
-<td width="60%" align="left">
+<td width="55%" align="left">
 
-Focused on improving as a developer through consistent practice and real-world projects.  
-Interested in building clean and functional web applications.
+I focus on improving my development skills through consistent practice and real projects.  
+I enjoy building clean, functional, and visually appealing web applications.
+
+<br><br>
+
+• Currently learning full-stack development  
+• Interested in UI + backend logic  
+• Always improving, one project at a time  
 
 </td>
 
-<td width="40%">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+<td width="45%">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%">
 </td>
 </tr>
 </table>
@@ -35,7 +46,7 @@ Interested in building clean and functional web applications.
 
 ---
 
-## Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,postgres,git,github&theme=dark" />
@@ -43,19 +54,22 @@ Interested in building clean and functional web applications.
 
 ---
 
-## Stats
+## Performance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yosli1&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yosli1&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000" height="150"/>
+
+</div>
 
 ---
 
-## Activity
+## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yosli1&theme=rose-pine&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yosli1&theme=rose-pine&hide_border=true&bg_color=00000000" />
 </p>
 
 ---
@@ -68,23 +82,27 @@ Interested in building clean and functional web applications.
 
 ---
 
-## Contact
+## Connect With Me
 
 <p align="center">
 
 <a href="mailto:yoslibeth.tolosa@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-contact-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yosli1">
+  <img src="https://img.shields.io/badge/GitHub-profile-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<!-- FOOTER -->
+<!-- FOOTER WAVE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yosli1/yosli1/main/9a9d01ff9cb7bdf933921b606c57b0a3.gif" width="30%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer"/>
 </p>
 
 <p align="center">
-  <i>building quietly, improving daily</i>
+  <i>crafted with consistency • driven by growth</i>
 </p>
