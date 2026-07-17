@@ -1,7 +1,9 @@
 <!-- HERO -->
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/yosli1/yosli1/main/7b837d4c0afbba735dd6373a7772645f.gif" width="100%" />
-</p>
+</div>
+
+<br>
 
 <h1 align="center">Yoslibeth Tolosa</h1>
 
@@ -10,68 +12,89 @@
   Full-Stack Developer in progress
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/focus-web%20dev-ffb6c1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/building-real%20projects-ffb6c1?style=flat-square"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/web-dev-ffc0cb?style=flat-square"/>
+  <img src="https://img.shields.io/badge/learning-daily-ffc0cb?style=flat-square"/>
+</div>
 
 ---
 
 ## About
 
+<br>
+
 <p align="center">
-Focused on growing as a developer through consistent practice and real-world projects.<br>
-Interested in building clean, functional, and user-friendly web applications.
+Focused on growing as a developer through real projects and consistent practice.<br>
+Interested in building clean and functional web applications.
 </p>
 
 ---
 
 ## Stack
 
-<p align="center">
+<br>
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,postgres,git,github&theme=dark" />
-</p>
+</div>
 
 ---
 
 ## Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yosli1&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
-</p>
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yosli1&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
+
+</div>
 
 ---
 
 ## Activity
 
-<p align="center">
+<br>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yosli1&theme=rose-pine&hide_border=true" />
-</p>
+</div>
 
 ---
 
 ## Contributions
 
-<p align="center">
+<br>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/yosli1/yosli1/output/github-contribution-grid-snake.svg" />
-</p>
+</div>
 
 ---
 
 ## Contact
 
-<p align="center">
-  <a href="mailto:yoslibeth.tolosa@gmail.com">Email</a>
-</p>
+<br>
+
+<div align="center">
+  <a href="mailto:yoslibeth.tolosa@gmail.com">yoslibeth.tolosa@gmail.com</a>
+</div>
 
 ---
 
 <!-- FOOTER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yosli1/yosli1/main/9a9d01ff9cb7bdf933921b606c57b0a3.gif" width="30%" />
-</p>
+<br><br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yosli1/yosli1/main/9a9d01ff9cb7bdf933921b606c57b0a3.gif" width="28%" />
+</div>
+
+<br>
 
 <p align="center">
-  <i>Growing step by step, building with intention.</i>
+  <i>building quietly, improving daily</i>
 </p>
