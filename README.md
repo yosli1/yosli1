@@ -1,40 +1,27 @@
-<!-- 🌸 HERO GIF -->
+<!-- HERO -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/yosli1/yosli1/main/7b837d4c0afbba735dd6373a7772645f.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Yoslibeth Tolosa 💖</h1>
+<h1 align="center">Yoslibeth Tolosa</h1>
 
 <p align="center">
-  🎓 ADSO Student • 🌎 Colombia <br>
-  ✨ Future Full-Stack Developer
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-FF4DA6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Always-FF4DA6?style=for-the-badge" />
+  ADSO Student • Colombia <br>
+  Full-Stack Developer in progress
 </p>
 
 ---
 
-## 🌸 About Me
+## About
 
 <p align="center">
-I’m passionate about creating modern and functional web experiences.<br>
-I love learning new technologies, solving problems, and building projects that make an impact.
+Focused on web development and continuous improvement.<br>
+Building practical solutions and improving through real projects.
 </p>
-
-<div align="center">
-
-| 💡 Passion | 🧠 Mindset | 🚀 Vision |
-|-----------|-----------|----------|
-| Web Development | Logical Thinking | Build meaningful solutions |
-
-</div>
 
 ---
 
-## 💻 Tech Stack
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,postgres,git,github&theme=dark" />
@@ -42,46 +29,44 @@ I love learning new technologies, solving problems, and building projects that m
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yosli1&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yosli1&show_icons=true&theme=transparent&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=transparent&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🔥 Streak
+## Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yosli1&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yosli1&theme=github-compact&hide_border=true" />
 </p>
 
 ---
 
-## 🌈 Activity
+## Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yosli1&theme=dracula&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/yosli1/yosli1/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📫 Contact
+## Contact
 
 <p align="center">
-  <a href="mailto:yoslibeth.tolosa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF4DA6?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="mailto:yoslibeth.tolosa@gmail.com">Email</a>
 </p>
 
 ---
 
-<!-- 🌸 GIF FINAL -->
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yosli1/yosli1/main/9a9d01ff9cb7bdf933921b606c57b0a3.gif" width="35%" />
+  <img src="https://raw.githubusercontent.com/yosli1/yosli1/main/9a9d01ff9cb7bdf933921b606c57b0a3.gif" width="30%" />
 </p>
 
 <p align="center">
-  <b>💖 Creating, learning, and growing every day 💖</b>
+  <i>Consistency over time builds results.</i>
 </p>
