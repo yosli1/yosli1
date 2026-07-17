@@ -4,12 +4,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoslibeth-t&show_icons=true&theme=dracula&bg_color=000000&title_color=FF69B4&icon_color=FF69B4&hide_border=true" alt="Yoslibeth's Stats" />
-</p>
-
----
-
 <div align="center">
 
 ## 🌟 About Me
@@ -25,9 +19,9 @@ I am a passionate <b>Analysis and Software Development (ADSO)</b> student based 
 
 ## 🛠️ My Tech Arsenal
 
-<kbd>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,postgres,sqlserver,git,github,vscode" />
-</kbd>
+</p>
 
 </div>
 
@@ -52,14 +46,10 @@ I am a passionate <b>Analysis and Software Development (ADSO)</b> student based 
 ---
 
 ### 📫 Let's connect!
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:yoslibeth.tolosa@gmail.com)
+[<img src="https://img.shields.ir/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:yoslibeth.tolosa@gmail.com)
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yoslibeth-t&theme=dracula&background=000000&ring=FF69B4&fire=FF69B4&currStreakNum=FF69B4" />
-
-<br>
-
-**"Choose a job you love, and you will never have to work a day in your life."**
+**"Programming is the art of turning logic into magic."**
 
 </div>
