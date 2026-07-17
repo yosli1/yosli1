@@ -1,4 +1,4 @@
-<!-- HERO (TU GIF) -->
+<!-- TOP -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/yosli1/yosli1/main/7b837d4c0afbba735dd6373a7772645f.gif" width="100%" />
 </p>
@@ -11,34 +11,35 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/web-dev-ffc0cb?style=flat-square"/>
-  <img src="https://img.shields.io/badge/learning-consistency-ffc0cb?style=flat-square"/>
+  <img src="https://img.shields.io/badge/web-dev-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/building-consistency-ff69b4?style=for-the-badge"/>
 </p>
 
 ---
 
-## About
+## About Me
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" align="left">
+<td width="55%" align="left">
 
-Focused on improving as a developer through consistent practice and real projects.
+I focus on improving my development skills through consistent practice and real projects.  
+I enjoy building clean, functional, and visually appealing web applications.
 
 <br><br>
 
-• Building real applications  
-• Learning frontend + backend  
+• Learning full-stack  
+• Building projects  
 • Improving every day  
 
 </td>
 
-<td width="50%" align="center">
+<td width="45%" align="center">
 
-<!-- TU SEGUNDO GIF (NO CAMBIADO) -->
-<img src="https://raw.githubusercontent.com/yosli1/yosli1/main/9a9d01ff9cb7bdf933921b606c57b0a3.gif" width="80%"/>
+<!-- SEGUNDO GIF (SOLO UNA VEZ) -->
+<img src="https://raw.githubusercontent.com/yosli1/yosli1/main/9a9d01ff9cb7bdf933921b606c57b0a3.gif" width="90%"/>
 
 </td>
 </tr>
@@ -48,7 +49,7 @@ Focused on improving as a developer through consistent practice and real project
 
 ---
 
-## Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,postgres,git,github&theme=dark" />
@@ -56,13 +57,11 @@ Focused on improving as a developer through consistent practice and real project
 
 ---
 
-## Stats
+## Performance
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=yosli1&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000" height="150"/>
-
-<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000" height="150"/>
 
@@ -86,27 +85,22 @@ Focused on improving as a developer through consistent practice and real project
 
 ---
 
-## Contact
+## Connect
 
 <p align="center">
 
 <a href="mailto:yoslibeth.tolosa@gmail.com">
-  <img src="https://img.shields.io/badge/email-yoslibeth.tolosa-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yosli1">
-  <img src="https://img.shields.io/badge/github-yosli1-ffc0cb?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-yosli1-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<!-- FOOTER (TU GIF OTRA VEZ PARA CERRAR BONITO) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yosli1/yosli1/main/9a9d01ff9cb7bdf933921b606c57b0a3.gif" width="25%" />
-</p>
-
-<p align="center">
-  <i>crafted with consistency and discipline</i>
+  <i>crafted with consistency • driven by growth</i>
 </p>
