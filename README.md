@@ -1,7 +1,17 @@
-<!-- TOP WAVE -->
+<!-- 🌸 TOP WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:fbc2eb&height=200&section=header"/>
 </p>
+
+<!-- 🌸 FONDO AESTHETIC -->
+<p align="center">
+  <img src="https://i.imgur.com/8Km9tLL.png" width="100%"/>
+</p>
+
+<div align="center">
+<table width="85%">
+<tr>
+<td>
 
 <!-- GIF PRINCIPAL -->
 <p align="center">
@@ -116,4 +126,14 @@
 
 <p align="center">
   <i>crafted with consistency • driven by growth</i>
+</p>
+
+</td>
+</tr>
+</table>
+</div>
+
+<!-- 🌸 FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:ffb6c1&height=150&section=footer"/>
 </p>
