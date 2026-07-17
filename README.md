@@ -1,119 +1,54 @@
-<!-- HEADER -->
-
-<h1 align="center">✨ Hi, I'm Yoslibeth Tolosa 💻</h1>
-
+<!-- GIF PRINCIPAL ARRIBA -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF61A6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+training;Passionate+about+Web+Development;Building+real+solutions;Always+learning+🚀" />
+  <img src="https://raw.githubusercontent.com/yosli1/yosli1/main/7b837d4c0afbba735dd6373a7772645f.gif" width="100%" />
 </p>
 
-<p align="center">
-  🎓 ADSO Student | 📍 Bucaramanga, Colombia  
-</p>
-
----
-
-## 🚀 About Me
-
-💡 Full-Stack Developer in training focused on building **real, scalable web solutions**.
-
-* 📊 Requirements Analysis
-* 🧠 Problem Solving
-* 🛠️ Full Development Cycle
-* ⚡ Database Optimization
-
----
-
-## 🧠 Currently Learning
-
-* ⚛️ Advanced JavaScript
-* 🧩 Backend Architecture
-* 🗄️ Database Optimization
-
----
-
-## 🧰 Tech Stack
+<h1 align="center">Hola, soy Sofia 👋</h1>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,postgres,git,github" />
-
+  💻 Aprendiendo desarrollo <br>
+  🚀 Construyendo proyectos <br>
+  🌎 Colombia
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 👨‍💻 About Me
 
-### 📦 Inventory Control & Alert System
-
-✔ Smart alerts
-✔ Stock automation
-✔ Product management
-
-### 🍔 Fast Food Web Platform
-
-✔ UI/UX focused
-✔ Responsive design
-✔ Product experience
-
-### 🍽️ Digital Gastronomic Catalog
-
-✔ Clean layout
-✔ Real-time data
-✔ Mobile optimized
+- 🎯 Actualmente aprendiendo programación  
+- 💡 Interesada en desarrollo web  
+- 🚀 Mejorando cada día  
+- 📚 Siempre aprendiendo cosas nuevas  
 
 ---
 
-## 📊 GitHub Stats (FIXED 🔥)
+## 🛠️ Tecnologías
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yosli1&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yosli1&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yosli1&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (ULTRA PRO)
+## 🔥 Actividad
 
 <p align="center">
-  <img src="https://github.com/yosli1/yosli1/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://streak-stats.demolab.com?user=yosli1&theme=tokyonight" />
 </p>
 
 ---
 
-## 👀 Profile Views
-
+<!-- GIF FINAL -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yosli1&color=ff69b4&style=for-the-badge"/>
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:yoslibeth.tolosa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF61A6?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 💡 Motto
-
-<p align="center">
-  <i>"Software doesn't just solve problems — it creates opportunities."</i> ✨
-</p>
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile ⭐
+  <img src="https://raw.githubusercontent.com/yosli1/yosli1/main/9a9d01ff9cb7bdf933921b606c57b0a3.gif" width="80%" />
 </p>
