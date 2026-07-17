@@ -10,13 +10,18 @@
   Full-Stack Developer in progress
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/focus-web%20dev-ffb6c1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/building-real%20projects-ffb6c1?style=flat-square"/>
+</p>
+
 ---
 
 ## About
 
 <p align="center">
-Focused on web development and continuous improvement.<br>
-Building practical solutions and improving through real projects.
+Focused on growing as a developer through consistent practice and real-world projects.<br>
+Interested in building clean, functional, and user-friendly web applications.
 </p>
 
 ---
@@ -32,8 +37,8 @@ Building practical solutions and improving through real projects.
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yosli1&show_icons=true&theme=transparent&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=transparent&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yosli1&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -41,7 +46,7 @@ Building practical solutions and improving through real projects.
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yosli1&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yosli1&theme=rose-pine&hide_border=true" />
 </p>
 
 ---
@@ -68,5 +73,5 @@ Building practical solutions and improving through real projects.
 </p>
 
 <p align="center">
-  <i>Consistency over time builds results.</i>
+  <i>Growing step by step, building with intention.</i>
 </p>
