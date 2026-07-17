@@ -1,9 +1,9 @@
-<!-- HEADER ANIMADO -->
+<!-- HEADER -->
 
 <h1 align="center">✨ Hi, I'm Yoslibeth Tolosa 💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+in+training;Passionate+about+Web+Development;Always+learning+new+technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF61A6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+training;Passionate+about+Web+Development;Building+real+solutions;Always+learning+🚀" />
 </p>
 
 <p align="center">
@@ -14,14 +14,20 @@
 
 ## 🚀 About Me
 
-💡 I'm a **Full-Stack Web Developer in training**, passionate about building complete web solutions — from intuitive user interfaces to solid backend systems.
+💡 Full-Stack Developer in training focused on building **real, scalable web solutions**.
 
-I enjoy the full development process:
+* 📊 Requirements Analysis
+* 🧠 Problem Solving
+* 🛠️ Full Development Cycle
+* ⚡ Database Optimization
 
-* 📊 Requirements gathering
-* 🧠 Problem solving
-* 🛠️ Development & deployment
-* ⚡ Database optimization
+---
+
+## 🧠 Currently Learning
+
+* ⚛️ Advanced JavaScript
+* 🧩 Backend Architecture
+* 🗄️ Database Optimization
 
 ---
 
@@ -29,22 +35,7 @@ I enjoy the full development process:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flexbox-000000?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grid-000000?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,postgres,git,github" />
 
 </p>
 
@@ -54,33 +45,29 @@ I enjoy the full development process:
 
 ### 📦 Inventory Control & Alert System
 
-✔ Product registration
-✔ Dynamic stock updates
-✔ Automated alert system
-
----
+✔ Smart alerts
+✔ Stock automation
+✔ Product management
 
 ### 🍔 Fast Food Web Platform
 
-✔ Modern UI/UX
+✔ UI/UX focused
 ✔ Responsive design
-✔ Product-focused experience
-
----
+✔ Product experience
 
 ### 🍽️ Digital Gastronomic Catalog
 
-✔ Clean and structured layout
-✔ Real-time menus & pricing
-✔ Mobile-friendly
+✔ Clean layout
+✔ Real-time data
+✔ Mobile optimized
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (FIXED 🔥)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yosli1&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yosli1&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -88,16 +75,32 @@ I enjoy the full development process:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yosli1&theme=radical&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com?user=yosli1&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Contact Me
+## 🐍 Contribution Snake (ULTRA PRO)
+
+<p align="center">
+  <img src="https://github.com/yosli1/yosli1/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yosli1&color=ff69b4&style=for-the-badge"/>
+</p>
+
+---
+
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:yoslibeth.tolosa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-FF61A6?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -112,5 +115,5 @@ I enjoy the full development process:
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+  ⭐ Thanks for visiting my profile ⭐
 </p>
