@@ -1,4 +1,4 @@
-<!-- TOP -->
+<!-- HERO (TU GIF PRINCIPAL) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/yosli1/yosli1/main/7b837d4c0afbba735dd6373a7772645f.gif" width="100%" />
 </p>
@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/web-dev-ff69b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/building-consistency-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/web-dev-ffc0cb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/learning-consistency-ffc0cb?style=for-the-badge"/>
 </p>
 
 ---
@@ -30,16 +30,16 @@ I enjoy building clean, functional, and visually appealing web applications.
 
 <br><br>
 
-• Learning full-stack  
-• Building projects  
+• Full-stack in progress  
+• Building real projects  
 • Improving every day  
 
 </td>
 
 <td width="45%" align="center">
 
-<!-- SEGUNDO GIF (SOLO UNA VEZ) -->
-<img src="https://raw.githubusercontent.com/yosli1/yosli1/main/9a9d01ff9cb7bdf933921b606c57b0a3.gif" width="90%"/>
+<!-- TU SEGUNDO GIF (BIEN INTEGRADO) -->
+<img src="https://raw.githubusercontent.com/yosli1/yosli1/main/9a9d01ff9cb7bdf933921b606c57b0a3.gif" width="85%"/>
 
 </td>
 </tr>
@@ -69,7 +69,7 @@ I enjoy building clean, functional, and visually appealing web applications.
 
 ---
 
-## Activity
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yosli1&theme=rose-pine&hide_border=true&bg_color=00000000" />
@@ -85,16 +85,16 @@ I enjoy building clean, functional, and visually appealing web applications.
 
 ---
 
-## Connect
+## Connect With Me
 
 <p align="center">
 
 <a href="mailto:yoslibeth.tolosa@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/email-yoslibeth.tolosa-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yosli1">
-  <img src="https://img.shields.io/badge/GitHub-yosli1-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-yosli1-ffc0cb?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
