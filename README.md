@@ -1,6 +1,11 @@
-<!-- TOP WAVE -->
+<!-- TOP WAVE --> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header"/>
+</p>
+
+<!-- TU GIF PRINCIPAL -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yosli1/yosli1/main/7b837d4c0afbba735dd6373a7772645f.gif" width="100%" />
 </p>
 
 <h1 align="center">Yoslibeth Tolosa</h1>
@@ -23,22 +28,35 @@
 
 <table>
 <tr>
+
 <td width="55%" align="left">
 
-I focus on improving my development skills through consistent practice and real projects.  
+<h3>About</h3>
+
+<p>
+I focus on improving my development skills through consistent practice and real projects.
+</p>
+
+<p>
 I enjoy building clean, functional, and visually appealing web applications.
+</p>
 
-<br><br>
+<br>
 
-• Currently learning full-stack development  
-• Interested in UI + backend logic  
-• Always improving, one project at a time  
+<b>Currently:</b><br>
+• Learning full-stack development<br>
+• Working on real projects<br>
+• Strengthening UI + backend logic  
 
 </td>
 
-<td width="45%">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%">
+<td width="45%" align="center">
+
+<!-- TU SEGUNDO GIF -->
+<img src="https://raw.githubusercontent.com/yosli1/yosli1/main/9a9d01ff9cb7bdf933921b606c57b0a3.gif" width="90%"/>
+
 </td>
+
 </tr>
 </table>
 
@@ -58,9 +76,10 @@ I enjoy building clean, functional, and visually appealing web applications.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yosli1&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000" height="150"/>
+<!-- FIX STATS -->
+<img src="https://github-readme-stats.vercel.app/api?username=yosli1&show_icons=true&theme=rose_pine&hide_border=true&cache_seconds=86400" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=rose_pine&hide_border=true&cache_seconds=86400" height="150"/>
 
 </div>
 
@@ -69,7 +88,7 @@ I enjoy building clean, functional, and visually appealing web applications.
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yosli1&theme=rose-pine&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yosli1&theme=rose-pine&hide_border=true" />
 </p>
 
 ---
