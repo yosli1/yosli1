@@ -31,7 +31,7 @@
 
 <td width="55%" align="left">
 
-<h3>About</h3>
+<h2>About</h2>
 
 <p>
 I focus on improving my development skills through consistent practice and real projects.
@@ -43,16 +43,22 @@ I enjoy building clean, functional, and visually appealing web applications.
 
 <br>
 
-<b>Currently:</b><br>
-• Learning full-stack development<br>
-• Working on real projects<br>
-• Strengthening UI + backend logic  
+<div>
+
+<b>Currently working on:</b>
+
+<ul>
+<li>Full-stack development</li>
+<li>Real-world projects</li>
+<li>UI + backend logic</li>
+</ul>
+
+</div>
 
 </td>
 
 <td width="45%" align="center">
 
-<!-- TU SEGUNDO GIF -->
 <img src="https://raw.githubusercontent.com/yosli1/yosli1/main/9a9d01ff9cb7bdf933921b606c57b0a3.gif" width="90%"/>
 
 </td>
@@ -74,14 +80,14 @@ I enjoy building clean, functional, and visually appealing web applications.
 
 ## Performance
 
-<div align="center">
+<p align="center">
 
-<!-- FIX STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=yosli1&show_icons=true&theme=rose_pine&hide_border=true&cache_seconds=86400" height="150"/>
+<!-- FIX REAL -->
+<img src="https://github-readme-stats.vercel.app/api?username=yosli1&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=rose_pine&hide_border=true&cache_seconds=86400" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000" height="150"/>
 
-</div>
+</p>
 
 ---
 
@@ -117,7 +123,7 @@ I enjoy building clean, functional, and visually appealing web applications.
 
 ---
 
-<!-- FOOTER WAVE -->
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer"/>
 </p>
