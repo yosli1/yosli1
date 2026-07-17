@@ -18,11 +18,8 @@ I am a passionate <b>Analysis and Software Development (ADSO)</b> student based 
 <div align="center">
 
 ## 🛠️ My Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,postgres,sqlserver,git,github,vscode" />
-</p>
-
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,postgres,sqlserver,git,github,vscode" />
 </div>
 
 ---
@@ -46,7 +43,12 @@ I am a passionate <b>Analysis and Software Development (ADSO)</b> student based 
 ---
 
 ### 📫 Let's connect!
-[<img src="https://img.shields.ir/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:yoslibeth.tolosa@gmail.com)
+<br>
+<a href="mailto:yoslibeth.tolosa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=dracula&hide_border=true" />
 
 <br>
 
