@@ -1,6 +1,6 @@
-<!-- HERO (TU GIF PRINCIPAL) -->
+<!-- TOP WAVE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yosli1/yosli1/main/7b837d4c0afbba735dd6373a7772645f.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header"/>
 </p>
 
 <h1 align="center">Yoslibeth Tolosa</h1>
@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/web-dev-ffc0cb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/learning-consistency-ffc0cb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/web-dev-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/building-consistency-ff69b4?style=for-the-badge"/>
 </p>
 
 ---
@@ -30,17 +30,14 @@ I enjoy building clean, functional, and visually appealing web applications.
 
 <br><br>
 
-• Full-stack in progress  
-• Building real projects  
-• Improving every day  
+• Currently learning full-stack development  
+• Interested in UI + backend logic  
+• Always improving, one project at a time  
 
 </td>
 
-<td width="45%" align="center">
-
-<!-- TU SEGUNDO GIF (BIEN INTEGRADO) -->
-<img src="https://raw.githubusercontent.com/yosli1/yosli1/main/9a9d01ff9cb7bdf933921b606c57b0a3.gif" width="85%"/>
-
+<td width="45%">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%">
 </td>
 </tr>
 </table>
@@ -90,16 +87,21 @@ I enjoy building clean, functional, and visually appealing web applications.
 <p align="center">
 
 <a href="mailto:yoslibeth.tolosa@gmail.com">
-  <img src="https://img.shields.io/badge/email-yoslibeth.tolosa-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-contact-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yosli1">
-  <img src="https://img.shields.io/badge/github-yosli1-ffc0cb?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-profile-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer"/>
+</p>
 
 <p align="center">
   <i>crafted with consistency • driven by growth</i>
