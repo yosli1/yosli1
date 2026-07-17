@@ -1,9 +1,9 @@
-<!-- TOP WAVE --> 
+<!-- TOP WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header"/>
 </p>
 
-<!-- TU GIF PRINCIPAL -->
+<!-- GIF PRINCIPAL -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/yosli1/yosli1/main/7b837d4c0afbba735dd6373a7772645f.gif" width="100%" />
 </p>
@@ -31,29 +31,25 @@
 
 <td width="55%" align="left">
 
-<h2>About</h2>
+### About
 
-<p>
-I focus on improving my development skills through consistent practice and real projects.
-</p>
-
-<p>
-I enjoy building clean, functional, and visually appealing web applications.
-</p>
+> I focus on improving my development skills through consistent practice  
+> and real projects.
 
 <br>
 
-<div>
+### Currently working on:
 
-<b>Currently working on:</b>
+- Full-stack development  
+- Real-world projects  
+- UI + backend logic  
 
-<ul>
-<li>Full-stack development</li>
-<li>Real-world projects</li>
-<li>UI + backend logic</li>
-</ul>
+<br>
 
-</div>
+### Mindset
+
+> *Consistency over perfection*  
+> *Progress over time*
 
 </td>
 
@@ -81,12 +77,7 @@ I enjoy building clean, functional, and visually appealing web applications.
 ## Performance
 
 <p align="center">
-
-<!-- FIX REAL -->
-<img src="https://github-readme-stats.vercel.app/api?username=yosli1&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosli1&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000" height="150"/>
-
+  <img src="https://streak-stats.demolab.com?user=yosli1&theme=rose-pine&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -94,7 +85,7 @@ I enjoy building clean, functional, and visually appealing web applications.
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yosli1&theme=rose-pine&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yosli1&theme=rose-pine&hide_border=true"/>
 </p>
 
 ---
@@ -102,7 +93,7 @@ I enjoy building clean, functional, and visually appealing web applications.
 ## Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yosli1/yosli1/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/yosli1/yosli1/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -122,11 +113,6 @@ I enjoy building clean, functional, and visually appealing web applications.
 </p>
 
 ---
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer"/>
-</p>
 
 <p align="center">
   <i>crafted with consistency • driven by growth</i>
